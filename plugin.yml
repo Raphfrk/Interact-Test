@@ -1,0 +1,8 @@
+name: InteractTest
+main: org.getspout.interacttest.InteractTest
+version: 0.1
+commands:
+  itest:
+    description: Used to toggle interaction test, OP only
+    usage: |
+      Incorrect usage of command /<command>
